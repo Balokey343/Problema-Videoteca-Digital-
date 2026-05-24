@@ -27,7 +27,3 @@ La aplicación cuenta con un módulo (función) encargado de auditar la videotec
 
 ## Instrucciones de Ejecución
 Para ejecutar este proyecto de forma local, asegúrese de tener instalado el intérprete de Python y siga estos pasos:
-
-1. Clone este repositorio o descargue el archivo de código fuente:
-   ```bash
-   git clone [Pegue aquí el enlace HTTPS de su repositorio]
